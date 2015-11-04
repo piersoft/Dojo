@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "name": null,
+                "email": null,
+                "website": null,
+                "address": null,
+                "twitter": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "N",
+                "email": "N",
+                "website": "N",
+                "address": "N",
+                "twitter": "N"
+            }
+        }
+    ]
+}
